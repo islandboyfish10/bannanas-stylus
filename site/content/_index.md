@@ -1,5 +1,5 @@
 ---
-title: "Stylus Bananas ![](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/banana_1f34c.png)"
+title: "Stylus Bananas" ![](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/65/banana_1f34c.png)
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
