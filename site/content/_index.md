@@ -8,13 +8,12 @@ blurb:
 intro:
     heading: "What we offer"
     text: "How do You use StlusBananas?:
-    Operate with just three easy steps!
-    1. Peel
-    2. Text and enjoy
-    3. Throw away
-    Don't be like this guy! ![](https://islandboyfish10.github.io/stylusbananas/bad.jpg)
-    - image: img/
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+    text: "Operate with just three easy steps!"
+    text: "1. Peel"
+    text: "2. Text and enjoy"
+    text: "3. Throw away"
+    text: "Don't be like this guy! ![](https://islandboyfish10.github.io/stylusbananas/bad.jpg)"
+     text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
     - image: /img/illustrations-coffee-gear.svg
       text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
